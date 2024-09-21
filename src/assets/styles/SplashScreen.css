@@ -1,0 +1,25 @@
+.splash-screen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('/assets/images/background.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .splash-content {
+    text-align: center;
+    color: black;
+  }
+  
+  .splash-content img {
+    width: 150px;
+    animation: glow 2s infinite;
+  }
+  
+  @keyframes glow {
+    0% { opacity: 0.8; }
+    50% { opacity: 1; }
+    100% { opacity: 0.8; }
+  }
+  

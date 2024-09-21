@@ -1,0 +1,16 @@
+.wallet-main {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .wallet-main h1 {
+    font-size: 2.5rem;
+    color: #27ae60;
+  }
+  
+  .wallet-main p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #7f8c8d;
+  }
+  

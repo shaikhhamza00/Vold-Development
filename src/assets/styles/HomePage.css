@@ -1,0 +1,16 @@
+.home-main {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .home-main h1 {
+    font-size: 2.5rem;
+    color: #3498db;
+  }
+  
+  .home-main p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #7f8c8d;
+  }
+  
